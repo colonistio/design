@@ -26,4 +26,5 @@ assignees: ''
 - [ ] I considered all related screens this feature might effect. (Landing page, Lobby, Room, Game, Store, Community, Press-kit etc..)
 - [ ] I checked out data on Google Analytics, Indicative and Metabase to make the right decision.
 - [ ] I considered C&K, SF, large maps and other possible future modes and maps
+- [ ] I considered second order effects
 - [ ] All designs I submitted are final and for implementation purposes
