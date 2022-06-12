@@ -27,4 +27,5 @@ assignees: ''
 - [ ] I checked out data on Google Analytics, Indicative and Metabase to make the right decision.
 - [ ] I considered C&K, SF, large maps and other possible future modes and maps
 - [ ] I considered 2nd order effects
+- [ ] I looked at examples of other products
 - [ ] All designs I submitted are final and for implementation purposes
