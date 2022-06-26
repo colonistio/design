@@ -18,14 +18,4 @@ assignees: ''
 
 ## Submission Checklist
 
-- [ ] I did not leave out anything that has already been implemented
-- [ ] I considered mobile (table & phone) devices
-- [ ] I considered horizontal & vertical mobile devices
-- [ ] I considered small & large screen desktop devices
-- [ ] I considered all possible use-cases of the design, including disconnects, page refreshes, scrolling, changing tab, hovering etc.
-- [ ] I considered all related screens this feature might effect. (Landing page, Lobby, Room, Game, Store, Community, Press-kit etc..)
-- [ ] I checked out data on Google Analytics, Indicative and Metabase to make the right decision.
-- [ ] I considered C&K, SF, large maps and other possible future modes and maps
-- [ ] I considered 2nd order effects
-- [ ] I looked at examples of other products
-- [ ] All designs I submitted are final and for implementation purposes
+- [ ] This submission abides by [Des-lvl-1](https://github.com/colonistio/katan/blob/development/docs/process/designer-level-1.md), [Des-lvl-2](https://github.com/colonistio/katan/blob/development/docs/process/designer-level-2.md) & [Des-lvl-3](https://github.com/colonistio/katan/blob/development/docs/process/designer-level-3.md)
