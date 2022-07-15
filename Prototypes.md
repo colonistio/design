@@ -1,4 +1,4 @@
-# Prototypes
+# Interactive Prototypes
 Prototypes / Flows done in Figma should be listed here.
 
 Will post other prototypes once I polished them 
