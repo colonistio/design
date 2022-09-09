@@ -11,13 +11,14 @@ assignees: ''
 
 
 
-## Resource
+## Resources
 
-- 
 - 
 
 ## Ideas from Feature Suggestion
 
 - https://colonist.featureupvote.com/
 
-- 
+
+## Reviewer
+
