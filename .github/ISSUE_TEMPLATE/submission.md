@@ -37,6 +37,7 @@ Ignored Principles:
 Proposed Solution: 
 Benefits: <!-- Measurable: retention, revenue, dev time etc. -->
 Potential Risks: 
+Figma link: 
 
 ## Considered
 
