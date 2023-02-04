@@ -45,3 +45,14 @@ ________________________________________________________________________________
 Q1 2022 & Before https://www.figma.com/file/HXkNBvF6yihHGr0yH1fxz9/Colonist-Archive-File?node-id=19%3A193654
 
 Q2 2022 https://www.figma.com/file/tagwK1yQAlIF0vFTXyC1x1/Colonist-Archive-File-Q2-2022?node-id=122%3A107237
+
+## Resources
+
+Design Feedback: https://docs.google.com/document/d/1dcQo4KBexrSNLsXHcxxmRAmHY24x0LEGHMd0fFuz-ZA/edit
+Brief Template: https://docs.google.com/document/d/1-3qDtbVzM1AaG1Iaissf2UOU9wKCCZVYuRXrKYxDcX4/edit
+
+## Feedback
+
+After feedback, there should be no room for discussion. We use principles in our thinking & writing. 
+
+Example: If there are 2 options available, `I like A`, `lets go with A` type of answers should be replaced by something like the following `A increases chance of user clicking`, `A is simpler`, `A fits our goal which is increase conversion of X type of users rather than Y type of users`
