@@ -10,15 +10,15 @@ assignees: ''
 ## Description
 
 
+## Actions
+- [ ] 
+- [ ] Verify for old users
+- [ ] Verify for new users
 
 ## Resources
-
 - 
-
-## Ideas from Feature Suggestion
-
-- https://colonist.featureupvote.com/
 
 
 ## Reviewer
 
+@demiculus
